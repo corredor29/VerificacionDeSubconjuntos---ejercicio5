@@ -1,0 +1,14 @@
+D:\Documentos\VerificacionDeSubconjuntos\bin\Debug\net10.0\VerificacionDeSubconjuntos.exe
+D:\Documentos\VerificacionDeSubconjuntos\bin\Debug\net10.0\VerificacionDeSubconjuntos.deps.json
+D:\Documentos\VerificacionDeSubconjuntos\bin\Debug\net10.0\VerificacionDeSubconjuntos.runtimeconfig.json
+D:\Documentos\VerificacionDeSubconjuntos\bin\Debug\net10.0\VerificacionDeSubconjuntos.dll
+D:\Documentos\VerificacionDeSubconjuntos\bin\Debug\net10.0\VerificacionDeSubconjuntos.pdb
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.AssemblyInfoInputs.cache
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.AssemblyInfo.cs
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.csproj.CoreCompileInputs.cache
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.dll
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\refint\VerificacionDeSubconjuntos.dll
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.pdb
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\VerificacionDeSubconjuntos.genruntimeconfig.cache
+D:\Documentos\VerificacionDeSubconjuntos\obj\Debug\net10.0\ref\VerificacionDeSubconjuntos.dll
