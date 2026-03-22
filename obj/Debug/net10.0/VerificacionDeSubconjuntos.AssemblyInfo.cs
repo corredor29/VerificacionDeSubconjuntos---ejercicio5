@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VerificacionDeSubconjuntos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a68fcb08b0c0f16dbbbd3bd77304071d590850e")]
 [assembly: System.Reflection.AssemblyProductAttribute("VerificacionDeSubconjuntos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VerificacionDeSubconjuntos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
